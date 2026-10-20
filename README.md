@@ -1,117 +1,180 @@
-<div align="center">
-
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=hoangphuclab&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Nguyễn Hoàng Phúc profile banner" />
-
-<br/>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Frontend%20or%20full-stack%20engineer;Building%20with%20JavaScript%20%C2%B7%20HTML%20%C2%B7%20CSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
-
-<br/>
-
-<a href="https://github.com/hoangphuclab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/1_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="1 followers" />
-
+ <div align="center">
+<a href="https://github.com/hoangphuclab">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:effcf6,50:d8f5e8,100:c7e9ff&height=220&section=header&text=Nguyen%20Hoang%20Phuc&fontSize=42&fontColor=173b35&fontAlignY=38&desc=Computer%20Science%20%7C%20Algorithms%20%7C%20AI%2FML&descSize=16&descAlignY=58&animation=fadeIn" alt="Nguyen Hoang Phuc profile banner" />
+</a>
+<a href="https://github.com/hoangphuclab">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=36A889&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Interested+in+Algorithms+%26+Problem+Solving;Building+Practical+AI%2FML+Projects;Learning+by+Building%2C+Improving%2C+Repeating" alt="Typing introduction" />
+</a>
+<p>
+  <a href="https://github.com/hoangphuclab?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-2d8f73?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  <a href="https://github.com/hoangphuclab?tab=followers">
+    <img src="https://img.shields.io/github/followers/hoangphuclab?style=flat-square&color=2d8f73&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/hoangphuclab">
+    <img src="https://komarev.com/ghpvc/?username=hoangphuclab&style=flat-square&color=2d8f73&label=Profile+Views" alt="Profile views" />
+  </a>
+</p>
 </div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hoangphuclab&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+⸻
 
-## ⚡ whoami
+About Me
 
-```typescript
-const hoangphuclab: Developer = {
-  name:      "Nguyễn Hoàng Phúc",
-  role:      "Frontend or full-stack engineer",
-  location:  "Building from the open web",
-  currently: "building in public",
-  stack:     ["JavaScript", "HTML", "CSS"],
-  mantra:    "Make useful things, then make them delightful 🚀",
-};
-```
+I’m a Computer Science student who enjoys solving problems, especially algorithmic ones. When I build something, I like to compare different approaches and look for a solution that is both effective and practical. I’m also interested in AI and machine learning, and enjoy putting what I learn into projects rather than leaving it as theory.
 
-> Frontend or full-stack engineer
-> 
-> **Collaborations welcome when they are meaningful 🤝**
+* 🎓 Studying Computer Science at CTUET.
+* 🧠 Interested in algorithms, problem solving, and machine learning.
+* 🔬 Exploring computer vision, NLP, and browser-based AI inference.
+* 🛠️ Enjoy experimenting with different approaches and optimizing performance.
+* 🌱 Always learning, building, and improving.
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hoangphuclab&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+⸻
 
-## ⚔️ Tech Arsenal
+Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript%2Chtml%2Ccss&perline=8&theme=dark" alt="Tech stack" />
+Programming Languages
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,c&theme=light" alt="Programming languages" />
 
-**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+AI / Machine Learning
 
-<img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light" alt="AI and computer vision tools" />
+<img src="https://img.shields.io/badge/ONNX_Runtime-Web-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime Web" />
+<img src="https://img.shields.io/badge/YOLO-Computer_Vision-111F68?style=flat-square" alt="YOLO" />
+<img src="https://img.shields.io/badge/PhoBERT-NLP-2d8f73?style=flat-square" alt="PhoBERT" />
 
+Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,mysql&theme=light" alt="Development tools" />
 </div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hoangphuclab&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+⸻
 
-## 🌌 Featured Projects
+Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**test9class**
+📄 Document Recognition
 
-A featured build from this profile.
+Browser-based document classification
 
-`JavaScript` · `0 stars`
+Exploring lightweight computer vision models to classify Vietnamese documents directly in the browser.
 
-<a href="https://github.com/hoangphuclab/test9class"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+* 9 document categories
+* ROI localization and image preprocessing
+* ONNX inference in the browser
+* Focus on speed and practical deployment
 
+<p>
+<a href="https://github.com/hoangphuclab?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-Project-2d8f73?style=flat-square&logo=github&logoColor=white" alt="Explore document recognition project" />
+</a>
+</p>
+</td>
+<td width="50%" valign="top">
+
+🚦 Campus Gate Analytics
+
+Vehicle detection and traffic counting
+
+Exploring computer vision for vehicle detection, tracking, and traffic-flow analysis at a campus gate.
+
+* YOLO-based object detection
+* Vehicle tracking experiments
+* Counting and traffic-flow analysis
+* Investigating deployment on resource-constrained hardware
+
+<p>
+<img src="https://img.shields.io/badge/Computer_Vision-Research-2d8f73?style=flat-square" alt="Computer vision research" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+💬 Vietnamese Sentiment Analysis
+
+Sentiment classification and topic analysis
+
+An NLP project using Vietnamese text data to study sentiment and topic classification.
+
+* PhoBERT-based experiments
+* Multi-class sentiment classification
+* Topic prediction
+* Evaluation using macro F1-score
+
+<p>
+<img src="https://img.shields.io/badge/NLP-PhoBERT-2d8f73?style=flat-square" alt="NLP PhoBERT project" />
+</p>
+</td>
+<td width="50%" valign="top">
+
+🧪 More Experiments
+
+Learning through implementation
+
+I also experiment with programming, model evaluation, optimization, and web development.
+
+<p>
+<a href="https://github.com/hoangphuclab?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-All_Repositories-2d8f73?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+</p>
 </td>
 </tr>
 </table>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hoangphuclab&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+⸻
 
-## 📊 GitHub Stats
+GitHub Statistics
 
 <div align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=hoangphuclab&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=hoangphuclab&theme=neon&style=aura" width="100%" alt="Contribution activity" />
-
+<a href="https://github.com/hoangphuclab">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangphuclab&show_icons=true&hide_border=true&bg_color=effcf6&title_color=247a63&icon_color=36a889&text_color=294c43&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/hoangphuclab">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangphuclab&layout=compact&hide_border=true&bg_color=effcf6&title_color=247a63&text_color=294c43&langs_count=6" alt="Most used programming languages" />
+</a>
+<br />
+<a href="https://github.com/hoangphuclab">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangphuclab&hide_border=true&background=effcf6&ring=36a889&fire=f59e0b&currStreakLabel=247a63&sideLabels=294c43&dates=54766d" alt="GitHub contribution streak" />
+</a>
+<br />
+<a href="https://github.com/hoangphuclab">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoangphuclab&bg_color=effcf6&color=294c43&line=36a889&point=247a63&area=true&hide_border=true" alt="GitHub activity graph" />
+</a>
 </div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hoangphuclab&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+⸻
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=hoangphuclab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208843744%3Fv%3D4" alt="hoangphuclab heatmap visual" />
-</p>
+Contribution Snake
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hoangphuclab&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<div align="center">
+<!-- Enable the GitHub Actions workflow to generate these images. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangphuclab/hoangphuclab/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangphuclab/hoangphuclab/output/github-snake.svg">
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/hoangphuclab/hoangphuclab/output/github-snake.svg" width="100%">
+</picture>
+</div>
 
-## 🏆 Beyond the Code
-
-* 🧠 **Profile signal:** 90 contributions in the last year
-* 🚀 **Builder energy:** 8 public repositories
-* ⭐ **Community signal:** 1 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hoangphuclab&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+⸻
 
 <div align="center">
 
-## 🤝 Let's Build Something Meaningful
+Thanks for visiting!
 
-I build useful software and enjoy turning ambitious ideas into working products.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:effcf6,100:c7e9ff&height=3&section=footer" width="100%" alt="" />
 
-<a href="https://github.com/hoangphuclab"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
+Build things. Solve problems. Keep learning.
 
-<br/><br/>
-
-***⭐ From [Nguyễn Hoàng Phúc](https://github.com/hoangphuclab) · built with code, AI & a little chaos 😈***
-
+<a href="https://github.com/hoangphuclab">
+  <img src="https://img.shields.io/badge/GitHub-hoangphuclab-2d8f73?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
 </div>

@@ -1,180 +1,191 @@
- <div align="center">
+<div align="center">
+
+<!-- HEADER BANNER -->
 <a href="https://github.com/hoangphuclab">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:effcf6,50:d8f5e8,100:c7e9ff&height=220&section=header&text=Nguyen%20Hoang%20Phuc&fontSize=42&fontColor=173b35&fontAlignY=38&desc=Computer%20Science%20%7C%20Algorithms%20%7C%20AI%2FML&descSize=16&descAlignY=58&animation=fadeIn" alt="Nguyen Hoang Phuc profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2d8f73&height=230&section=header&text=Nguyen%20Hoang%20Phuc&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Algorithms%20%E2%80%A2%20AI%20%26%20Machine%20Learning&descSize=17&descColor=d8f5e8&descAlignY=58&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Nguyen Hoang Phuc banner" />
 </a>
+
+<!-- TYPING SVG -->
 <a href="https://github.com/hoangphuclab">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=36A889&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Interested+in+Algorithms+%26+Problem+Solving;Building+Practical+AI%2FML+Projects;Learning+by+Building%2C+Improving%2C+Repeating" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=2D8F73&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+CTUET;Passionate+about+Algorithms+%26+Problem+Solving;Building+Practical+AI+%2F+Machine+Learning+Projects;Learning+by+Building%2C+Optimizing%2C+Repeating" alt="Typing SVG" />
 </a>
-<p>
+
+<!-- BADGES -->
+<p align="center">
   <a href="https://github.com/hoangphuclab?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-2d8f73?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-Explore-2d8f73?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
   <a href="https://github.com/hoangphuclab?tab=followers">
-    <img src="https://img.shields.io/github/followers/hoangphuclab?style=flat-square&color=2d8f73&label=Followers" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/hoangphuclab?style=for-the-badge&color=203a43&labelColor=0f2027&logo=github&label=Followers" alt="GitHub followers" />
   </a>
   <a href="https://github.com/hoangphuclab">
-    <img src="https://komarev.com/ghpvc/?username=hoangphuclab&style=flat-square&color=2d8f73&label=Profile+Views" alt="Profile views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangphuclab.hoangphuclab&left_color=%230f2027&right_color=%232d8f73&left_text=Profile%20Views" height="28" alt="Profile views" />
   </a>
 </p>
+
 </div>
 
-⸻
+---
 
-About Me
+## 👨‍💻 About Me
 
-I’m a Computer Science student who enjoys solving problems, especially algorithmic ones. When I build something, I like to compare different approaches and look for a solution that is both effective and practical. I’m also interested in AI and machine learning, and enjoy putting what I learn into projects rather than leaving it as theory.
+I’m a **Computer Science student** who enjoys solving complex problems, especially algorithmic ones. When building software or models, I like to compare different approaches and look for solutions that are both **effective** and **practical**. I am deeply interested in **AI and Machine Learning**, and I enjoy turning theoretical knowledge into real-world applications.
 
-* 🎓 Studying Computer Science at CTUET.
-* 🧠 Interested in algorithms, problem solving, and machine learning.
-* 🔬 Exploring computer vision, NLP, and browser-based AI inference.
-* 🛠️ Enjoy experimenting with different approaches and optimizing performance.
-* 🌱 Always learning, building, and improving.
+- 🎓 Studying **Computer Science** at **Can Tho University of Technology (CTUET)**.
+- 🧠 Passionate about **Data Structures, Algorithms**, and **Machine Learning**.
+- 🔬 Exploring **Computer Vision**, **Vietnamese NLP**, and **Browser-based AI Inference (ONNX)**.
+- 🛠️ Enjoy benchmarking models, experimenting with architectures, and optimizing performance.
+- 🌱 Philosophy: *Learn → Build → Measure → Improve*.
 
-⸻
+---
 
-Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,c&theme=light" alt="Programming languages" />
-
-AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light" alt="AI and computer vision tools" />
-<img src="https://img.shields.io/badge/ONNX_Runtime-Web-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime Web" />
-<img src="https://img.shields.io/badge/YOLO-Computer_Vision-111F68?style=flat-square" alt="YOLO" />
-<img src="https://img.shields.io/badge/PhoBERT-NLP-2d8f73?style=flat-square" alt="PhoBERT" />
-
-Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,mysql&theme=light" alt="Development tools" />
-</div>
-
-⸻
-
-Selected Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-📄 Document Recognition
-
-Browser-based document classification
-
-Exploring lightweight computer vision models to classify Vietnamese documents directly in the browser.
-
-* 9 document categories
-* ROI localization and image preprocessing
-* ONNX inference in the browser
-* Focus on speed and practical deployment
-
-<p>
-<a href="https://github.com/hoangphuclab?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-Project-2d8f73?style=flat-square&logo=github&logoColor=white" alt="Explore document recognition project" />
-</a>
-</p>
-</td>
-<td width="50%" valign="top">
-
-🚦 Campus Gate Analytics
-
-Vehicle detection and traffic counting
-
-Exploring computer vision for vehicle detection, tracking, and traffic-flow analysis at a campus gate.
-
-* YOLO-based object detection
-* Vehicle tracking experiments
-* Counting and traffic-flow analysis
-* Investigating deployment on resource-constrained hardware
-
-<p>
-<img src="https://img.shields.io/badge/Computer_Vision-Research-2d8f73?style=flat-square" alt="Computer vision research" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-💬 Vietnamese Sentiment Analysis
-
-Sentiment classification and topic analysis
-
-An NLP project using Vietnamese text data to study sentiment and topic classification.
-
-* PhoBERT-based experiments
-* Multi-class sentiment classification
-* Topic prediction
-* Evaluation using macro F1-score
-
-<p>
-<img src="https://img.shields.io/badge/NLP-PhoBERT-2d8f73?style=flat-square" alt="NLP PhoBERT project" />
-</p>
-</td>
-<td width="50%" valign="top">
-
-🧪 More Experiments
-
-Learning through implementation
-
-I also experiment with programming, model evaluation, optimization, and web development.
-
-<p>
-<a href="https://github.com/hoangphuclab?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-All_Repositories-2d8f73?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
-</p>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <b>💻 Programming Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css&theme=dark" alt="Programming Languages" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td align="center" width="34%">
+      <b>🤖 AI / Machine Learning</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI and CV" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ONNX_Runtime-Web-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime Web" />
+      <img src="https://img.shields.io/badge/YOLOv8-Vision-111F68?style=flat-square" alt="YOLO" />
+      <img src="https://img.shields.io/badge/PhoBERT-Vietnamese_NLP-2d8f73?style=flat-square" alt="PhoBERT" />
+    </td>
+    <td align="center" width="33%">
+      <b>⚙️ Tools & Platforms</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,mysql&theme=dark" alt="Tools" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
-⸻
-
-GitHub Statistics
-
-<div align="center">
-<a href="https://github.com/hoangphuclab">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangphuclab&show_icons=true&hide_border=true&bg_color=effcf6&title_color=247a63&icon_color=36a889&text_color=294c43&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/hoangphuclab">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangphuclab&layout=compact&hide_border=true&bg_color=effcf6&title_color=247a63&text_color=294c43&langs_count=6" alt="Most used programming languages" />
-</a>
-<br />
-<a href="https://github.com/hoangphuclab">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangphuclab&hide_border=true&background=effcf6&ring=36a889&fire=f59e0b&currStreakLabel=247a63&sideLabels=294c43&dates=54766d" alt="GitHub contribution streak" />
-</a>
-<br />
-<a href="https://github.com/hoangphuclab">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoangphuclab&bg_color=effcf6&color=294c43&line=36a889&point=247a63&area=true&hide_border=true" alt="GitHub activity graph" />
-</a>
 </div>
 
-⸻
+---
 
-Contribution Snake
+## 🚀 Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 Document Recognition</h3>
+      <p><b>Browser-based Document Classification</b></p>
+      <p>Exploring lightweight computer vision models to classify Vietnamese administrative and personal documents directly in the web browser.</p>
+      <ul>
+        <li>Supports <b>9 document categories</b></li>
+        <li>ROI localization & automated image preprocessing</li>
+        <li>Client-side <b>ONNX Runtime Web</b> inference</li>
+        <li>Optimized for low latency and privacy-preserving deployment</li>
+      </ul>
+      <p>
+        <a href="https://github.com/hoangphuclab?tab=repositories">
+          <img src="https://img.shields.io/badge/Explore_Project-2d8f73?style=for-the-badge&logo=github&logoColor=white" alt="Explore Document Recognition" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚦 Campus Gate Analytics</h3>
+      <p><b>Vehicle Detection & Traffic Counting</b></p>
+      <p>Computer vision pipeline designed for real-time vehicle detection, multi-object tracking, and traffic-flow analysis at a campus gate.</p>
+      <ul>
+        <li><b>YOLO-based</b> real-time object detection</li>
+        <li>Multi-object vehicle tracking experiments</li>
+        <li>Automated entry/exit counting & flow analytics</li>
+        <li>Benchmarked for resource-constrained hardware</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Computer_Vision-Research-203a43?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Research" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 Vietnamese Sentiment Analysis</h3>
+      <p><b>Sentiment Classification & Topic Modeling</b></p>
+      <p>An NLP research project utilizing Vietnamese text datasets to study multi-class sentiment polarity and topic classification.</p>
+      <ul>
+        <li>Fine-tuned <b>PhoBERT</b> transformer experiments</li>
+        <li>Multi-class sentiment & aspect classification</li>
+        <li>Text preprocessing & Vietnamese word segmentation</li>
+        <li>Rigorous evaluation using <b>Macro F1-score</b></li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/NLP-PhoBERT-203a43?style=for-the-badge" alt="NLP PhoBERT" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 More Experiments</h3>
+      <p><b>Learning Through Implementation</b></p>
+      <p>A collection of algorithmic solutions, model evaluation scripts, performance optimization tests, and web applications.</p>
+      <ul>
+        <li>Data Structures & Algorithms practice</li>
+        <li>Model quantization & inference benchmarks</li>
+        <li>Full-stack web integration for AI demos</li>
+        <li>Continuous learning repositories</li>
+      </ul>
+      <p>
+        <a href="https://github.com/hoangphuclab?tab=repositories">
+          <img src="https://img.shields.io/badge/All_Repositories-2d8f73?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics & Activity
 
 <div align="center">
-<!-- Enable the GitHub Actions workflow to generate these images. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangphuclab/hoangphuclab/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangphuclab/hoangphuclab/output/github-snake.svg">
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/hoangphuclab/hoangphuclab/output/github-snake.svg" width="100%">
-</picture>
-</div>
-
-⸻
-
-<div align="center">
-
-Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:effcf6,100:c7e9ff&height=3&section=footer" width="100%" alt="" />
-
-Build things. Solve problems. Keep learning.
 
 <a href="https://github.com/hoangphuclab">
-  <img src="https://img.shields.io/badge/GitHub-hoangphuclab-2d8f73?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=hoangphuclab&show_icons=true&hide_border=true&bg_color=0f2027&title_color=36a889&icon_color=36a889&text_color=e2f1ec&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 </a>
+<a href="https://github.com/hoangphuclab">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangphuclab&layout=compact&hide_border=true&bg_color=0f2027&title_color=36a889&text_color=e2f1ec&langs_count=6&border_radius=10" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/hoangphuclab">
+  <img width="96%" src="https://streak-stats.demolab.com?user=hoangphuclab&hide_border=true&background=0f2027&ring=36a889&fire=f59e0b&currStreakLabel=36a889&sideLabels=e2f1ec&currStreakNum=ffffff&sideNums=ffffff&dates=8ab4a6&border_radius=10" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/hoangphuclab">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoangphuclab&bg_color=0f2027&color=e2f1ec&line=36a889&point=ffffff&area=true&area_color=2d8f73&hide_border=true&radius=10" alt="GitHub Activity Graph" />
+</a>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+### ✨ Thanks for visiting!
+*Build things. Solve problems. Keep learning.*
+
+<p>
+  <a href="https://github.com/hoangphuclab">
+    <img src="https://img.shields.io/badge/GitHub-@hoangphuclab-2d8f73?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2d8f73&height=110&section=footer" alt="Footer wave" />
+
 </div>
